@@ -1,6 +1,6 @@
 # Hello World Webpage Project Hello! 
 
-I'm a student currently learning about GitHub, GitHub Codespaces, and GitHub Pages. This repository contains my first project: a simple "Hello World" webpage. It's a part of our GIS programming lab where we're exploring the basics of web development and version control. 
+I'm a prof currently learning about GitHub, GitHub Codespaces, and GitHub Pages. This repository contains my first project: a simple "Hello World" webpage. It's a part of our GIS programming lab where we're exploring the basics of web development and version control. 
 
 ## Project Description 
 
